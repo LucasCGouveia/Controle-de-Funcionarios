@@ -1,0 +1,27 @@
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\bin\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\bin\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\bin\Debug\Oracle.DataAccess.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.Properties.Resources.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.GenerateResource.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.CopyComplete
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\bin\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\bin\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.ResolveComReference.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.Properties.Resources.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.GenerateResource.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csprojAssemblyReference.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\bin\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\bin\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csprojAssemblyReference.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.ResolveComReference.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.Properties.Resources.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.GenerateResource.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Repository\obj\Debug\ControleFuncionarios.Repository.pdb

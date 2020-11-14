@@ -1,0 +1,75 @@
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.exe.config
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.exe
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Business.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\Oracle.DataAccess.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Business.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csprojAssemblyReference.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadUsuario.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.FrmLogin.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Properties.Resources.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.GenerateResource.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.CoreCompileInputs.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.CopyComplete
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.exe
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.exe.config
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.exe
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csprojAssemblyReference.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Buscar.FrmBuscarFunc.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadCargos.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadContatos.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadEndereco.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadFuncionarios.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadTipoContato.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadUsuario.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Principais.FrmTrocaSenha.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.FrmGerenciamento.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.FrmLogin.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.FrmMenuPrincipal.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Properties.Resources.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmAtribuirAdm.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmDesbloquearUsuarios.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmGenerico.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmJuntarUserAFunc.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmTrocaTelas.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.GenerateResource.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.CoreCompileInputs.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.CopyComplete
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.exe
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios com Oracle\ControleFuncionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmFuncExcluidos.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.exe.config
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.exe
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionariosV2.pdb
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Repository.dll
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\bin\Debug\ControleFuncionarios.Repository.pdb
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csprojAssemblyReference.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Buscar.FrmBuscarFunc.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadCargos.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadContatos.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadEndereco.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadFuncionarios.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadTipoContato.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Cadastro.FrmCadUsuario.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Principais.FrmTrocaSenha.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.FrmGerenciamento.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.FrmLogin.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.FrmMenuPrincipal.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Properties.Resources.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmAtribuirAdm.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmDesbloquearUsuarios.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmFuncExcluidos.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmGenerico.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmJuntarUserAFunc.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.Secundarios.FrmTrocaTelas.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.GenerateResource.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.CoreCompileInputs.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.csproj.CopyComplete
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.exe
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionariosV2\obj\Debug\ControleFuncionariosV2.pdb

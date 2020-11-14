@@ -1,0 +1,17 @@
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\bin\Debug\ControleFuncionarios.Business.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\bin\Debug\ControleFuncionarios.Business.pdb
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\bin\Debug\Oracle.DataAccess.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.Properties.Resources.resources
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.csproj.GenerateResource.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.csproj.CoreCompileInputs.cache
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.csproj.CopyComplete
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.dll
+C:\Projetos\New Might\Desenvolvimento\ControleFuncionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.pdb
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\bin\Debug\ControleFuncionarios.Business.dll
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\bin\Debug\ControleFuncionarios.Business.pdb
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.csprojAssemblyReference.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.Properties.Resources.resources
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.csproj.GenerateResource.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.csproj.CoreCompileInputs.cache
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.dll
+C:\Projetos\Controle-de-Funcionarios\ControleFuncionarios.Business\obj\Debug\ControleFuncionarios.Business.pdb
